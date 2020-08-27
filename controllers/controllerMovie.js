@@ -21,11 +21,11 @@ class Controller{
         })
     }
     static getShowAllMoviesComingSoon(){
-        
-    }
-    static getShowAllMoviesNowShowing(){
 
     }
+    // static getShowAllMoviesNowShowing(){
+
+    // }
 }
 
 module.exports = Controller

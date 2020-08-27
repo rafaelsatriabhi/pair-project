@@ -1,0 +1,24 @@
+[
+  {
+    "name" : "Ad Astra",
+    "year" : 2019,
+    "runtime" : 124,
+    "categories" : "adventure",
+    "release_date" : "2019-09-29"
+  },
+  {
+    "name": "After",
+    "year": 2019,
+    "runtime": 105,
+    "categories":"drama",  
+    "release_date": "2019-04-12"
+   
+  },
+  {
+    "name" : "Aladdin",
+    "year" : 2019,
+    "runtime" : 128,
+    "categories" : "adventure",
+    "release_date" : "2019-05-22"
+}
+]

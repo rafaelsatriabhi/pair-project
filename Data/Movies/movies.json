@@ -20,5 +20,191 @@
     "runtime" : 128,
     "categories" : "adventure",
     "release_date" : "2019-05-22"
+  },
+  {
+    "name": "Angel Has Fallen",
+    "year": 2019,
+    "runtime": 121,
+    "categories": "action",
+
+    "release_date": "2019-08-21",
+    "director": "Ric Roman Waugh",
+    "writer": [
+      "Ric Roman Waugh",
+      "Robert Mark Kamen",
+      "Matt Cook"
+    ],
+    "actors": [
+      "Gerard Butler",
+      "Morgan Freeman",
+      "Piper Perabo"
+    ],
+    "storyline": "Secret Service Agent Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat."
+  },
+  {
+    "name": "Annabelle Comes Home",
+    "year": 2019,
+    "runtime": 106,
+    "categories":"supernatural",
+    "release_date": "2019-06-26",
+    "director": "Gary Dauberman",
+    "writer": [
+      "James Wan",
+      "Gary Dauberman"
+    ],
+    "actors": [
+      "Mckenna Grace",
+      "Madison Iseman",
+      "Katie Sarife",
+      "Patrick Wilson",
+      "Vera Farmiga"
+    ],
+    "storyline": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her 'safely' behind sacred glass and enlisting a priest's holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target--the Warrens' ten-year-old daughter, Judy, and her friends."
+  },
+  {
+    "name": "Bacurau",
+    "year": 2019,
+    "runtime": 132,
+    "categories": "drama",
+    "release_date": "2019-05-15",
+    "director": "Kleber Mendonça Filho",
+    "writer": [
+      "Kleber Mendonça Filho",
+      "Juliano Dornelles"
+    ],
+    "actors": [
+      "Sônia Braga",
+      "Udo Kier",
+      "Bárbara Colen"
+    ],
+    "storyline": "Shortly after the death of Dona Carmelita, residents of a small town located in the Brazilian Sertão called Bacurau discover that the community is no longer on any map."
+  },
+  {
+    "name": "Captain Marvel",
+    "year": 2019,
+    "runtime": 125,
+    "categories":"action",
+    "release_date": "2019-03-08",
+    "director": "Anna Boden, Ryan Fleck",
+    "writer": [
+      "Anna Boden",
+      "Ryan Fleck",
+      "Geneva Robertson-Dworet"
+    ],
+    "storyline": "Set in the 1990s, Marvel Studios' \"Captain Marvel\" is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danvers as she becomes one of the universe's most powerful heroes. While a galactic war between two alien races reaches Earth, Danvers finds herself and a small cadre of allies at the center of the maelstrom."
+  },
+  {
+    "name": "Glass",
+    "year": 2019,
+    "runtime": "129",
+    "categories": "drama",
+    "release_date" : "2019-01-18",
+    "director": "M. Night Shyamalan",
+    "writer": "M. Night Shyamalan",
+    "actors": [
+       "James McAvoy",
+       "Bruce Willis", 
+       "Samuel L. Jackson",
+       "Anya Taylor-Joy"
+    ],
+    "storyline": "Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities."
+},
+{
+  "name": "Hellboy",
+  "year": 2019,
+  "runtime": 121,
+  "categories":"Action",
+  "release_date": "2019-04-09",
+  "director": "Neil Marshall",
+  "writer": [
+    "Rudolf Schenker",
+    "Herman Rarebell",
+    "Klaus Meine"
+  ],
+  "actors": [
+    "Mark Stanley",
+    "Brian Gleeson",
+    "Nadya Keranova",
+    "Maria Tepavicharova",
+    "Ana Tabakova",
+    "Milla Jovovich",
+    "Penelope Mitchell",
+    "Terry Randal",
+    "Ian McShane",
+    "David Harbour",
+    "Mario de la Rosa",
+    "Christopher Mata",
+    "Atanas Srebrev",
+    "Dawn Sherrer",
+    "Michael Heath"
+  ],
+  "storyline": "Hellboy is a supernatural being who is the son of a fallen angel. He came to our world in 1944 as a result of a mystical ritual. The Occultists of the Third Reich had long tried to gain an advantage in the war, hoping to attract the ideal soldier to the ranks of the fascist army. Hellboy was exactly the one they needed, but they never managed to make their plans a reality. The demon from hell fell into the hands of Americans and began to serve them, protecting the world from mysterious threats. This time he is sent to England to meet face to face with Merlin's wife. Just a battle with the Blood Queen will lead to the end of the world, which the monster tried to avoid all his life."
+},
+{
+  "name": "Hobbs & Shaw",
+  "year": 2019,
+  "runtime": 136,
+  "categories": "action",
+  "release_date": "2019-07-13",
+  "director": "David Leitch",
+  "writer": [
+    "Chris Morgan",
+    "Drew Pearce"
+  ],
+  "actors": [
+    "Dwayne Johnson",
+    "Jason Statham",
+    "Idris Elba",
+    "Vanessa Kirby"
+  ],
+  "storyline": "Brixton Lorr is a cybernetically enhanced soldier who possesses superhuman strength, a brilliant mind and a lethal pathogen that could wipe out half of the world's population. It's now up to hulking lawman Luke Hobbs and lawless operative Deckard Shaw to put aside their past differences and work together to prevent the seemingly indestructible Lorr from destroying humanity."
+},
+{
+  "name": "Hustlers",
+  "year": 2019,
+  "runtime": 110,
+  "categories": "comedy",
+  "release_date": "2019-09-13",
+  "director": "Lorene Scafaria",
+  "writer": [
+    "Jessica Pressler",
+    "Lorene Scafaria"
+  ],
+  "actors": [
+    "Constance Wu",
+    "Jennifer Lopez",
+    "Julia Stiles"
+  ],
+  "storyline": "Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients."
+},
+{
+  "name": "Ich war noch niemals in New York",
+  "year": 2019,
+  "runtime": 127,
+  "categories":"comedy",
+  "release_date": "2019-10-17",
+  "director": "Philipp Stölzl",
+  "writer": [
+    "Alexander Dydyna",
+    "Philipp Stölzl",
+    "Jan Berger",
+    "Karsten Dusse",
+    "Gabriel Barylli",
+    "Christian Struppeck",
+    "Udo Jürgens"
+  ],
+  "actors": [
+    "Heike Makatsch",
+    "Moritz Bleibtreu",
+    "Katharina Thalbach",
+    "Uwe Ochsenknecht",
+    "Michael Ostroski",
+    "Pasquale Alearsi",
+    "Marlon Schram",
+    "Michael Aston"
+  ],
+  "storyline": "For television presenter Lisa Wartberg her job is the most important thing in life. That changes, however, when her mother Maria loses her memory after an accident and suddenly knows only one thing: she has never been to New York. The feisty lady escapes from the hospital and smuggles herself as a stowaway on board a cruise ship to finally experience the city, which never sleeps, up close. Her daughter has no choice but to go on the search for her mother together with her make-up artist Fred. They do find her, but the ship leaves before Lisa and her mother get off board. A chaotic journey across the Atlantic begins, where Lisa not only gets to know passenger Axel and his son, but also her mother makes an exciting acquaintance."
 }
+
+
 ]

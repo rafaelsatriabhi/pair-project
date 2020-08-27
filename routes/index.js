@@ -7,7 +7,7 @@ const Controller =require(`../controllers/controller.js`)
 Router.get(`/`, Controller.getHome)
 
 Router.use(`/users`,userRouter)
-Router.use(`/movies`,userRouter)
+Router.use(`/movies`,movieRouter)
 
 
 module.exports = Router

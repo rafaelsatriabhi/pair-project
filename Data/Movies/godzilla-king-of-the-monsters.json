@@ -2,12 +2,7 @@
   "name": "Godzilla: King of the Monsters",
   "year": 2019,
   "runtime": 132,
-  "categories": [
-    "action",
-    "adventure",
-    "fantasy",
-    "sci-fi"
-  ],
+  "categories":"action",
   "release-date": "2019-05-29",
   "director": "Michael Dougherty",
   "writer": [

@@ -14,11 +14,17 @@ module.exports = {
      * }], {});
     */
    data = data.map((element)=>{
+    return {
+      name: element.name,
+      year: element.year,
+      runtime: element.runtime,
+      categories: element.categories,
+      release_date: element.release_date,
+      createdAt: new Date (),
+      updatedAt: new Date ()
+    }
 
-    element.createdAt = new Date ()
-    element.updatedAt = new Date ()
-
-    return element
+    
    })
    return queryInterface.bulkInsert(`Movies`, data, {})
   },

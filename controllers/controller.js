@@ -1,6 +1,8 @@
 class Controller{
     static getHome(req,res){
-        res.send(`Wuiwui mantap`)
+        res.render(
+            `home`
+        )
     }
 }
 

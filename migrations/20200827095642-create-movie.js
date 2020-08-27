@@ -23,9 +23,6 @@ module.exports = {
       release_date: {
         type: Sequelize.STRING
       },
-      storyline: {
-        type: Sequelize.STRING
-      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE

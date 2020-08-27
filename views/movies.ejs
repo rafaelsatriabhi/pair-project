@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies</title>
+</head>
+<body>
+    <%- include(`partials/navbar.ejs`) %>
+    <br>
+    <table border="1">
+        <tr>
+            <th>No</th>
+            <th>Name</th>
+            <th>Year</th>
+            <th>Runtime(Minute)</th>
+            <th>Categories</th>
+            <th>Release Date</th>
+            <th>Subcriber Count</th>
+            <th>Action</th>
+        </tr>
+
+        <% dataMovies.forEach((element,idx)=>{ %>
+            <tr>
+                <td><%= idx+1  %></td>
+                <td><%= element.name  %> </td>
+                <td><%= element.year  %></td>
+                <td><%= element.runtime%></td>
+                <td><%= element.categories  %></td>
+                <td><%= element.release_date  %></td>
+                <td><%= element.Users.length %>,Subscribers</td>
+                <td> <a href="/movies/subscribe/<%=element.id%>">Subscribe</a> </td>
+            </tr>
+        <% }) %>
+
+    </table>
+
+</body>
+</html>

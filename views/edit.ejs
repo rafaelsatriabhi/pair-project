@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit</title>
+</head>
+<body>
+    <h1>Edit</h1>
+    <form action="/users/edit/<%= data.id %>" method="POST">
+        
+        <label for="first_name">First Name</label><br>
+        <input type="text" name="first_name" id="first_name" value="<%= data.first_name %>"><br>
+
+        <label for="last_name">Last Name</label><br>
+        <input type="text" name="last_name" id="last_name" value="<%= data.last_name %>"><br>
+
+        <label for="username">Username</label><br>
+        <input type="text" name="username" id="username" value="<%= data.username %>"><br>
+
+        <label for="email">Email</label><br>
+        <input type="text" name="email" id="email" value="<%= data.email %>"><br>
+
+        <label for="password">Password</label><br>
+        <input type="password" name="password" id="password" value="<%= data.password %>"><br>
+
+        <label for="birth_date">Birth Date</label><br>
+        <input type="date" name="birth_date" id="birth_date" value="<=% birth_date %>"><br>
+        
+        <input type="submit" value="Edit">
+    </form>
+</body>
+</html>
